@@ -32,4 +32,4 @@
 [![Tor](https://img.shields.io/badge/-Tor-555555?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 [![Dark Reader](<https://img.shields.io/badge/-TypeScript-555555?style=flat&logo=typescript&logoColor=007acd>)](https://github.com/microsoft/TypeScript)
 
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Rustam-Abrahamyan">
+<img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=Rustam-Abrahamyan">
