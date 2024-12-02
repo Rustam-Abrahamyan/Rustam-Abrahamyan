@@ -19,17 +19,3 @@
             <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
         </a>
     </p>
-
-<br />
-
----
-
-<br />
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rustam-Abrahamyan&theme=discord_old_blurple)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rustam-Abrahamyan&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rustam-Abrahamyan&theme=discord_old_blurple)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rustam-Abrahamyan&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rustam-Abrahamyan&theme=discord_old_blurple)
